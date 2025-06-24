@@ -1,0 +1,20 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "NoteApp est une mini plateforme web innovante permettant la gestion dynamique  et interactive des produits et de leurs avis. Cette application offre une expérience utilisateur complète avec des fonctionnalités avancées de notation, de gestion de produits et d'analyse des retours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arlandonfah/NoteApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arlandonfah/NoteApp/issues"
+  },
+  "homepage": "https://github.com/Arlandonfah/NoteApp#readme"
+}
